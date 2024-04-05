@@ -1,0 +1,703 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+.grandf{
+    height: 250%;
+    border: 2px solid;
+    padding: 0.5%;
+    
+}
+.grandp1{
+    height: 2%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 0.5%;
+   margin-inline: 5%;
+   display: flex;
+   
+}
+.l1{
+    height: 100%;
+    width:30%; 
+    margin-right: 30%;
+
+}
+.l11{
+    height: 100%; 
+    width:40%;
+   
+}
+
+.W{
+    display: none;
+}
+.grandp2{
+    height: 28%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 0.5%;
+   display: flex;
+   background-image: url("/Group\ 18.png");
+   background-position: center;
+   background-size: cover;
+  
+   
+}
+
+
+.l21{
+    height: 50%;
+    width:20%; 
+ background-color: aquamarine;
+ margin-block: 10%;
+ margin-left: 16%;
+ background-position: center;
+  background-size: cover;
+  justify-content: center;
+
+ 
+
+}
+.texte-secondaire {
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-position: center;
+    background-size: cover;
+   
+  }
+.bouton {
+    background-color:#EFD372;
+    color: rgb(31, 29, 29);
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+    background-position: center;
+    background-size: cover;
+   
+  }
+
+.grandp3{
+    height: 13.5%;
+    border: 2px solid;
+    padding: 0.5%;
+    margin-block: 5%;
+   margin-inline: 15%;
+   display: flex;
+  gap: 3vh;
+  background-position: center;
+  background-size: cover;
+  justify-content: center;
+   
+}
+.l3{
+    height: 100%;
+    width:50%; 
+    background-position: center;
+    background-size: cover;
+    background-image: url("/images/Image.jpg");
+
+}
+.l31{
+    height: 100%;
+    width:50%; 
+    background-image: url('/images/Image\ \(7\).png');
+    background-position: center;
+    background-size: cover;
+   
+}
+
+
+
+.taille{
+    font-size: 35px;
+    text-align: center;
+   
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 3%;
+    font-weight: bold;
+    text-align: center;
+}
+a:hover{
+    color: #5537fd;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.vert{
+    font-family: "Yellowtail", cursive;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 49.06px;
+    text-align: left;
+    color:rgb(47, 212, 61);
+    margin: 8%;
+    margin-bottom: 10%;
+    margin-left: 3%;
+    background-position: center;
+    background-size: cover;
+
+    
+    
+}
+.vt{
+    font-family: "Yellowtail", cursive;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: left;
+    color:rgb(47, 212, 61);
+    margin-left: 3%;
+    background-position: center;
+    background-size: cover;  
+    
+}
+.noir{
+    font-family: "Yellowtail", cursive;
+    color:rgb(15, 14, 14);
+    background-position: center;
+    background-size: cover;
+    font-size: 25px;
+    
+    
+}
+.text{
+    font-size: 40px;
+    background-position: center;
+  background-size: cover;
+  margin-left: 3%;
+  margin-bottom: 6%;
+}
+.grandp4{
+    height: 30%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 0.5%;
+   display: flex;
+   background-color: #F9F8F8;
+   background-position: center;
+   background-size: cover;
+   gap: 2%;
+  
+  
+   
+}
+
+
+.l4{
+    height: 95%;
+    width:40%; 
+ margin-block: 3%;
+ margin-left: 3%;
+ background-image: url("/images/Photo\ \(4\).png");
+ background-position: center;
+background-size: cover;
+ 
+
+}
+.l41{
+    height: 90%;
+    width:50%; 
+ margin-block: 3%;
+ margin-left: 3%;
+ background-position: center;
+background-size: cover;
+
+}
+.containere {
+    width: 100%;
+    max-width: 960px;
+  }
+  .image-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  .image {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  .texte {
+    font-size: 18px;
+    margin-left: 10%;
+
+  }
+
+
+
+
+.grandp5{
+    height: 30%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 0.5%;
+   background-image: url("/images/to");
+   background-position: center;
+   background-size: cover;
+   gap: 2%; 
+   
+}
+
+
+.l5{
+    height: 50%;
+    width:30%; 
+ margin-block: 3%;
+ background-position: center;
+background-size: cover;
+margin-bottom: 5%;
+margin-inline: 20%;
+margin-left: 35%;
+ 
+
+}
+
+  .image1 {
+    
+    margin-left: 40%;
+  }
+.paragraphe{
+    font-size: 85%;
+    text-align: center;
+}
+
+.l51{
+    height: 20%;
+    width:60%; 
+ margin-block: 3%;
+ background-position: center;
+background-size: cover;
+margin-inline: 20%;
+display: flex;
+gap: 8%;
+
+}
+.l52{
+    height: 100%;
+    width: 211px;
+ background-color: #F1F1F1;
+
+ background-position: center;
+background-size: cover;
+border: #7EB693 solid;
+text-align: center;
+align-items:center;
+border-radius: 50%;
+
+}
+
+.grandp6{
+    height: 30%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 0.5%;
+   background-position: center;
+   background-size: cover;
+   display: flex;
+   
+}
+
+
+.l6{
+    height: 100%;
+    width:55%; 
+ background-position: center;
+background-size: cover;
+background-image: url("/images/Photo\ \(4\).jpg");
+ 
+
+}
+.l61{
+    height: 86%;
+    width:65%; 
+ background-color: aquamarine;
+ margin-block: 3%;
+ background-position: center;
+background-size: cover;
+margin-left: 95%;
+background-position: center;
+  background-size: cover;
+  justify-content: center;
+
+}
+.grandp7{
+    height: 20%;
+    border: 2px solid;
+    padding: 0.5%;
+   margin-bottom: 1.5%;
+   background-color: #F1F8F4;
+   margin-top: 5%;
+   justify-content: center;
+   background-position: center;
+   background-size: cover;
+   text-align: center;
+  align-items:center;
+}
+
+.l7{
+    height: 86%;
+    display: flex;
+    width: 99%;
+    gap: 3%;
+    margin-top: 2%;
+    background-position: center;
+  background-size: cover;
+  justify-content: center;
+   
+    
+}
+.l71{
+    height: 100%;
+    background-color: #d9d9d9;
+    width:34%;
+    background-image: url('/Photo\ \(1\).jpg');
+    background-position: center;
+    background-size: cover;
+}
+.l72{
+    height: 100;
+    background-color: #fddc37;
+    width:34%;
+    background-image: url('/images/Image\ \(8\).png');
+    background-position: center;
+    background-size: cover;
+
+}
+.l73{
+    height: 100%;
+    background-color: #d9d9d9;
+    width:34%;
+    background-image: url('/images/Photo\ \(5\).jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+.ligne7 {
+    display: flex;
+      justify-content: center;
+      margin-top: 5%;
+  }
+  
+  .bloc-image-ligne7 {
+        display: flex;
+        width: 80%;
+        height: 30vh;
+        background-image: url("/images/Background\ \(1\).png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        justify-content: right;
+        align-items: center;
+        border-radius: 20px;
+  }
+  
+  .texte-image-ligne7 {
+      width: 40%;
+      display: block;
+      font-size: xxx-large;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bolder;
+  }
+  
+  .entree-ligne7 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 50%;
+        border: 1px solid #0D64E5;
+        margin: auto;
+  }
+  
+  .bouton-ligne7 {
+        width: 20%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 3rem;
+        border-radius: 10px;
+        background-color: #274C5B;
+        color: white;
+        cursor: pointer;
+  }
+  
+  .bouton-ligne7:hover {
+        background-color: #0D64E5;
+  }
+  
+  input {
+        width: 80%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+  }
+  
+  input:focus {
+        outline: none;
+        box-shadow: 0 0 2px 1px rgba(0, 120, 255, 0.5);
+  }
+  
+
+  .footer{
+      margin-top: 10vh;
+      display: flex;
+      justify-content: center;
+      gap: 2vw;
+  }
+  
+  
+  .gauche-footer {
+        margin-top: 50px;
+        text-align: right;
+        width: 30vw;
+        height: 40vh;
+      padding-right: 5vw;
+  }
+  
+  .gauche-footer h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+  }
+  
+  .gauche-footer p {
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+  }
+  
+  .gauche-footer a {
+        text-decoration: none;
+        color: #8CB5F3;
+        margin-right: 20px;
+  }
+  
+  .pied-footer {
+        text-align: center;
+        margin-top: 50px;
+        padding-top: 5vh;
+        font-size: 1rem;
+        margin-bottom: 5vh;
+        border-image: url("Images1/Line.png") 20 round;
+        border-top: #B4A42C solid;
+  }
+  
+  .droite-footer {
+      display: flex;
+      flex-direction: column;
+      margin-top: 3vh;
+      width: 30vw;
+      height: auto;
+      padding: 10px;
+      border-left: #B4A42C solid;
+  }
+  
+  .bloc-logo-footer {
+      display: flex;
+      width: 30vw;
+      height: 10vh;
+      gap: 1rem;
+      justify-content: center;
+  
+  }
+  .texte1-droite-footer {
+      padding-top: 2vh;
+      font-family: Arial, sans-serif;
+      font-size: xx-large;
+      font-weight: bold;
+      color: #333;
+  }
+  
+  .texte2-droite-footer {
+      width: 30vw;
+      height: 10vh;
+      font-size: xx-large;
+      align-content: center;
+      text-align: center;
+  }
+  
+  .bloc-icone-droite-footer{
+      display: flex;
+      width: 30vw;
+      height: 20vh;
+      justify-content: center;
+      gap: 1rem;
+      padding-top: 5vh;
+      
+  }
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+    body {
+        font-size: 10px;
+    }
+
+    .grandf {
+        height: 100%;
+      
+    }
+
+    .grandp1 {
+        height: 8%;
+        
+    }
+
+    .grandp2  {
+        height: 20%;
+        
+    }
+   
+    .W
+    {
+        display: inline;
+        justify-content: space-between;
+        margin-top: 25%;
+        height: 50%;
+    }
+
+    .l1 img {
+        width: 30%;
+        height:100%;
+        
+    }
+      .l1, .l11,.l2,.l3,.l31,.l4,.l41,.l7,.l6,.l61,.l71,.l72,.l73{
+        width: 100%;
+        text-align: center;
+        background-position: center;
+       background-size: cover;
+      justify-content: center;
+     
+    }
+    .menu {
+    
+        height: auto;
+        display: none;
+       
+    
+    }
+    .taille{
+        font-size: 10px;
+        background-position: center;
+        background-size: cover;
+        margin: 0%;
+       
+    
+    }
+    .grandp2 {
+        height: 20%;
+    }
+    .grandp3,.grandp4{
+        height: 45%;
+        flex-direction: column;
+    }
+    .grandp7{
+        height: 30%;
+        flex-direction: column;
+        background-position: center;
+      background-size: cover;
+      justify-content: center;
+    }
+    .vert{
+        margin: 0%;
+        margin-left: 10%;
+    
+        
+    }
+    .noir{
+        font-size: 6px;
+        background-position: center;
+        background-size: cover;
+        margin: 0%;
+        gap: o,1%;
+        width: 100%;
+    
+        
+    }
+    .text{
+        font-size: 30px;
+        background-position: center;
+        background-size: cover;
+        margin: 0%;
+        margin-right: 40%;
+       
+    
+    }
+    .grandp4{
+        height: 75%;
+        flex-direction: column;
+    }
+    .grandp5 {
+        height: 30%;
+        
+    }
+    .l5{
+        width: 50%;
+        text-align: center;
+        margin-left: 25%;
+
+    }
+    .grandp6 {
+        height: 30%;
+        
+    }
+    .l6{
+        width: 50%;
+        text-align: center;
+        
+
+    }
+    .bloc-icone-droite-footer{
+        display: flex;
+        width: 60vw;
+        height: 20vh;
+        justify-content: center;
+
+    }
+    .texte-secondaire {
+        font-size: 8px;
+        margin-bottom: 2px;
+        margin-left: 2px;
+        background-position: center;
+        background-size: cover;
+       
+      }
+      .vt{
+     font-family: "Yellowtail", cursive;
+    font-size: 6px;
+    font-weight: 4;
+    background-position: center;
+    background-size: cover;  
+        
+    }
+    .l21{
+        height: 90%;
+        width:20%; 
+     margin: 0;
+     
+    
+    }
+  
+}
+
+
+
